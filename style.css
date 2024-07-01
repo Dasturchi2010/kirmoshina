@@ -1,8 +1,9 @@
 body {
-    margin: 350px;
+    margin: 150px;
     display: flex;
     justify-content: center;
     align-items: center;
+    right: 15px;
    
     
 }
